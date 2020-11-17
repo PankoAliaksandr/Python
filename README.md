@@ -1,2 +1,2 @@
 # Python
-Python general notes
+Algorithms from LeetCode
